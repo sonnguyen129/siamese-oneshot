@@ -1,5 +1,5 @@
-# siamese-oneshot
-Keras implementation of paper [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+# siamnet-oneshot
+Keras implementation of paper [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf), *Koch at al.*, 2015
 ## Installation
 To run, you'll first have to clone this repo and install the dependencies
 ```
