@@ -14,9 +14,10 @@ python load_data.py --path <PATH TO THIS FOLDER>
 ```
 Then you can run the jupyter notebook.
 ```
-Siamese
+SiameseNet.ipynb
+SiameseNet_VGG.ipynb
 ```
-**Note**: 
+**Note**: SiameseNet implement the original architecture introduced in paper, SiameseNet_VGG fine tune pretrain VGG model
 ## TO DO
-- [x]: Fine tuning pretrain with the original Siamese architecture
-- [ ]: Clean code, update Tensorflow 2.x 
+- [x] Fine tuning pretrain with the original Siamese architecture
+- [ ] Clean code, update Tensorflow 2.x 
